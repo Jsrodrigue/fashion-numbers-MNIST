@@ -27,7 +27,6 @@ This repository contains a PyTorch implementation of a **two-layer Convolutional
   - Track training and validation metrics (accuracy, loss).
   - Log hyperparameters (epochs, learning rate, batch size, optimizer, hidden units, dropout).
   - Visualize experiment progress in real time.
-  - Optionally, run **hyperparameter sweeps** to systematically explore configurations.
 
 - Functions to:
   - Plot misclassified images.
